@@ -1,0 +1,14 @@
+import = [
+    "~/.config/alacritty/themes/themes/gruvbox_material_hard_dark.toml"
+]
+
+[window]
+opacity = 0.95
+decorations = "None"
+padding = { x = 10, y = 10 }
+title = "chubbs hacking"
+dynamic_title = false
+
+[font]
+normal = { family = "0xProto Nerd Font Mono", style = "Regular" }
+size = 14.0
